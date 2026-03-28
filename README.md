@@ -1,1 +1,2 @@
 # IPL2026-lifetimes_analysis
+This project focuses on analyzing historical data from the Indian Premier League (IPL) to extract meaningful insights about team performance, player statistics, match trends, and winning patterns. Using data analysis tools like Python, Pandas, NumPy, and Matplotlib/Seaborn, the project transforms raw cricket data into actionable insights and visualizations.
